@@ -21,3 +21,24 @@ DNS改ざん・MITM証拠保全
 
 ### README編集画面
 ![README編集](readme_edit_20251113.png)
+内部ストレージ → Download → Evidence202510_28
+## 消失した証拠ファイル（妨害の痕跡）
+
+## 消失した証拠ファイル（妨害の痕跡）
+
+以下のファイルは、GitHubアップロード直前にスマホ内から消失。  
+Termuxでの検索結果やファイル選択画面には存在していたが、現在は確認できない。
+
+- logcat_vpn.txt
+- logcat_norton.txt
+- dumpsys_head.txt
+- services_full.txt
+- services_head.txt
+
+この消失は、証拠妨害・端末操作・ファイル改ざんの可能性を示す重要な痕跡である。
+ls ~/storage/shared/Pictures/Screenshots/ | grep 20251112
+## 消失した証拠ファイル（妨害の痕跡）
+
+以下のファイルは、GitHubアップロード直前にスマホ内から消失。  
+Termuxでの検索結果やファイル選択画面には存在していたが、現在は確認できない。
+/storage/emulated/0/Download/Screenshot_20251027-203328.png
